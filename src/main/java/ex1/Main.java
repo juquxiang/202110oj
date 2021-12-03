@@ -7,7 +7,20 @@ import java.util.Scanner;
  * @author qx
  */
 class Main {
-
+    /**
+     * Description
+     *
+     * 已知两个有序整数数组a和b，将a，b合并到数组c中，合并后的数组c仍然是一个有序数组。
+     *
+     *
+     *
+     * Input
+     * 输入包含4个变量，数组a的长度，数组a，数组b的长度，数组b。
+     *
+     *
+     * Output
+     * 输出包含1个变量，即数组c。
+     */
     public static void main(String[] args) {
         /*
           用户输入
